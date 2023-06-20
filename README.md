@@ -1,4 +1,4 @@
-# Possibility of Device Failure
+# Device Failure Possibility
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 
 <p align="center">
